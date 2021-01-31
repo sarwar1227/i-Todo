@@ -1,0 +1,7 @@
+.design_items{
+  display:flex;
+  flex-direction: row;
+}
+.MuiListItemText-inset {
+  padding-left: 0px !important;
+}
